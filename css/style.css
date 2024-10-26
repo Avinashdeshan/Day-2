@@ -1,0 +1,55 @@
+.p{
+    background-color: blue;
+    text-align: center;
+    color: white;
+
+}
+
+.h1{
+    background-color: rgb(29, 142, 12);
+    text-align: center;
+    color: white;
+    padding: top 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.h2{
+    background-color: rgb(189, 73, 10);
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#sample-id-selector{
+    background-color: rgb(236, 158, 90);
+    text-align: justify;
+    font-size: larger;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+body{
+    background-image: url(../img/maxresdefault.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
